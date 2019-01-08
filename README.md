@@ -3,7 +3,7 @@
 A responsive e-commerce template made with bootstrap.
 
 
-Download and put the project in your htdocs file.
+Download and move the project in your htdocs file.
 
 
 1. Index Page
