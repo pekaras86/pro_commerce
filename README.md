@@ -4,7 +4,8 @@ A responsive e-commerce template made with bootstrap.
 
 
 
-1. Index Page\
+1. Index Page
+
 /pro_commerce/index.php
 
 2. Procucts Page
@@ -12,10 +13,13 @@ A responsive e-commerce template made with bootstrap.
 /pro_commerce/products.php
 
 3. Description Page
+
 /pro_commerce/description.php
 
 4. Comparison Page
+
 /pro_commerce/comparison.php
 
 5. Contact us Page
+
 /pro_commerce/contact_us.php
