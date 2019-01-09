@@ -8,6 +8,7 @@ A responsive e-commerce template made with bootstrap.
 /pro_commerce/index.php
 
 2. Procucts Page
+
 /pro_commerce/products.php
 
 3. Description Page
