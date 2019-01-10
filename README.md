@@ -1,6 +1,6 @@
 # pro_commerce
 
-A responsive e-commerce template made with bootstrap.
+A responsive e-commerce template made with bootstrap (in progress).
 
 
 
